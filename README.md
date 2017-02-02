@@ -7229,18 +7229,6 @@ Don't be intimidated by the size of this array. Just use your knowledge of loops
 
 <hr />
 
-## Homework
 
-This is tonight's official homework. Be sure to submit it to the homework repository. The exercise above is only an in-class exercise. Do not submit the exercise as homework, only submit this.
 
-### Instructions
 
-Create the following basic website layouts. See [this article for more information about each layout](https://designshack.net/articles/layouts/10-rock-solid-website-layout-examples/).
-
-Using what you know about CSS grid systems, create the fllowing layouts in separate HTML pages using your grid styling method of choice: Traditional Float Based Grids or Flex box grids:
-
-1. <img src="images/1.jpg" />
-2. <img src="images/2.jpg" />
-3. <img src="images/3.jpg" />
-4. <img src="images/4.jpg" />
-5. <img src="images/5.jpg" />
